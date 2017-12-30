@@ -12651,7 +12651,10 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <segment>
 <pinref part="R7" gate="G$1" pin="1"/>
 <label x="-111.76" y="91.44" size="1.778" layer="95" rot="R180" xref="yes"/>
-<wire x1="-101.6" y1="91.44" x2="-111.76" y2="91.44" width="0.1524" layer="91"/>
+<wire x1="-101.6" y1="91.44" x2="-106.68" y2="91.44" width="0.1524" layer="91"/>
+<pinref part="R2" gate="G$1" pin="1"/>
+<wire x1="-106.68" y1="91.44" x2="-111.76" y2="91.44" width="0.1524" layer="91"/>
+<junction x="-106.68" y="91.44"/>
 </segment>
 <segment>
 <pinref part="IN-1" gate="-2" pin="1"/>
@@ -12687,7 +12690,10 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <segment>
 <pinref part="R10" gate="G$1" pin="1"/>
 <label x="-170.18" y="40.64" size="1.778" layer="95" rot="R180" xref="yes"/>
-<wire x1="-160.02" y1="40.64" x2="-170.18" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="-160.02" y1="40.64" x2="-165.1" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="R5" gate="G$1" pin="1"/>
+<wire x1="-165.1" y1="40.64" x2="-170.18" y2="40.64" width="0.1524" layer="91"/>
+<junction x="-165.1" y="40.64"/>
 </segment>
 <segment>
 <pinref part="IN-1" gate="-3" pin="1"/>
@@ -12723,7 +12729,10 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 <segment>
 <pinref part="R13" gate="G$1" pin="1"/>
 <label x="-111.76" y="40.64" size="1.778" layer="95" rot="R180" xref="yes"/>
-<wire x1="-101.6" y1="40.64" x2="-111.76" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="-101.6" y1="40.64" x2="-106.68" y2="40.64" width="0.1524" layer="91"/>
+<pinref part="R8" gate="G$1" pin="1"/>
+<wire x1="-106.68" y1="40.64" x2="-111.76" y2="40.64" width="0.1524" layer="91"/>
+<junction x="-106.68" y="40.64"/>
 </segment>
 <segment>
 <pinref part="IN-1" gate="-4" pin="1"/>

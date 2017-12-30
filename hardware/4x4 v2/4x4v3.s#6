@@ -12700,9 +12700,9 @@ Based on the previous libraries:
 <label x="182.88" y="111.76" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="RA3/AN3/VREF+"/>
-<wire x1="45.72" y1="71.12" x2="43.18" y2="71.12" width="0.1524" layer="91"/>
-<label x="43.18" y="71.12" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="IC1" gate="G$1" pin="KBI1/PGM/RB5"/>
+<wire x1="96.52" y1="76.2" x2="99.06" y2="76.2" width="0.1524" layer="91"/>
+<label x="99.06" y="76.2" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="OUT-1-2" class="1">
@@ -12724,9 +12724,9 @@ Based on the previous libraries:
 <label x="246.38" y="111.76" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="RA2/AN2/VREF-"/>
-<wire x1="45.72" y1="73.66" x2="43.18" y2="73.66" width="0.1524" layer="91"/>
-<label x="43.18" y="73.66" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="IC1" gate="G$1" pin="KBI0/AN9/RB4"/>
+<wire x1="96.52" y1="73.66" x2="99.06" y2="73.66" width="0.1524" layer="91"/>
+<label x="99.06" y="73.66" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="OUT-1-3" class="1">
@@ -12748,9 +12748,9 @@ Based on the previous libraries:
 <label x="182.88" y="68.58" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="RA1/AN1"/>
-<wire x1="45.72" y1="76.2" x2="43.18" y2="76.2" width="0.1524" layer="91"/>
-<label x="43.18" y="76.2" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="IC1" gate="G$1" pin="CANRX/RB3"/>
+<wire x1="96.52" y1="71.12" x2="99.06" y2="71.12" width="0.1524" layer="91"/>
+<label x="99.06" y="71.12" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="OUT-1-4" class="1">
@@ -12772,9 +12772,9 @@ Based on the previous libraries:
 <label x="246.38" y="68.58" size="1.27" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="RA0/AN0"/>
-<wire x1="45.72" y1="78.74" x2="43.18" y2="78.74" width="0.1524" layer="91"/>
-<label x="43.18" y="78.74" size="1.27" layer="95" rot="R180" xref="yes"/>
+<pinref part="IC1" gate="G$1" pin="INT2/CANTX/RB2"/>
+<wire x1="96.52" y1="68.58" x2="99.06" y2="68.58" width="0.1524" layer="91"/>
+<label x="99.06" y="68.58" size="1.27" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="SIGOUT-1-5" class="0">
